@@ -1,0 +1,61 @@
+
+// sets layouts for shadred items grids
+// bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+{
+    "shared_item_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+			{
+				"type": "group",
+				"header": "Items",
+                "orientation": "Vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+						"item_size": 4,
+                        "rows": [
+                            [
+                                "Dios Best Friend",
+								"Common item",
+								"Uncommon item",          
+								"Legendary item",
+								"Boss item",
+								"Lunar item",
+								"Equipment",
+								"Void Item"
+                            ]
+                        ]
+                    }
+                ]
+            }
+			,{
+                "type": "group",
+				"header": "scrap",
+                "orientation": "Vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+						"item_size": 4,
+                        "rows": [
+                            ["Item scrap White",
+								"Item scrap Green",
+								"Item scrap Red",
+								"Item scrap Yellow"      
+                            ]
+                        ]
+                    }
+                ]
+			}
+        ]
+    }
+}
+
+
