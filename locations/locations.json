@@ -84,6 +84,7 @@
 						"name": "Chest",
 						"clear_as_group": false,
 						"item_count": 20
+						
 					},
 					{
 						"name": "Newt Altar",
@@ -559,12 +560,12 @@
 			{
 				"name": "Commencement",
 				"access_rules": [
-					"Commencement"
+					"Moon"
 				],
 				"sections": [{
-					"hosted_item": "Commencement",
+					"hosted_item": "Moon",
 					"clear_as_group": true,
-					"item_count": 1
+					"item_count": 0
 				}],
 				"map_locations": [{
 					"map": "map1",
@@ -580,7 +581,7 @@
 				"sections": [{
 					"hosted_item": "Bazaar Between Time",
 					"clear_as_group": true,
-					"item_count": 1
+					"item_count": 0
 				}],
 				"map_locations": [{
 					"map": "map1",
@@ -596,7 +597,7 @@
 				"sections": [{
 					"hosted_item": "A Moment Fractured",
 					"clear_as_group": true,
-					"item_count": 1
+					"item_count": 0
 				}],
 				"map_locations": [{
 					"map": "map1",
@@ -612,7 +613,7 @@
 				"sections": [{
 					"hosted_item": "A Moment Whole",
 					"clear_as_group": true,
-					"item_count": 1
+					"item_count": 0
 				}],
 				"map_locations": [{
 					"map": "map1",
@@ -628,7 +629,7 @@
 				"sections": [{
 					"hosted_item": "Gilded Coast",
 					"clear_as_group": true,
-					"item_count": 1
+					"item_count": 0
 				}],
 				"map_locations": [{
 					"map": "map1",
@@ -639,17 +640,49 @@
 			{
 				"name": "Hidden Realm: Bulwark's Ambry",
 				"access_rules": [
-					"Bulwark's Ambry"
+					"Bulwarks Ambry"
 				],
 				"sections": [{
-					"hosted_item": "Bulwark's Ambry",
+					"hosted_item": "Bulwarks Ambry",
 					"clear_as_group": true,
-					"item_count": 1
+					"item_count": 0
 				}],
 				"map_locations": [{
 					"map": "map1",
 					"x": 500,
 					"y": 800
+				}]
+			},
+			{
+				"name": "Void Lotus",
+				"access_rules": [
+					"VoidLocus"
+				],
+				"sections": [{
+					"hosted_item": "VoidLocus",
+					"clear_as_group": true,
+					"item_count": 0
+				}],
+				"map_locations": [{
+					"map": "map1",
+					"x": 500,
+					"y": 300
+				}]
+			},
+			{
+				"name": "The Planetarium",
+				"access_rules": [
+					"Planetarium"
+				],
+				"sections": [{
+					"hosted_item": "Planetarium",
+					"clear_as_group": true,
+					"item_count": 0
+				}],
+				"map_locations": [{
+					"map": "map1",
+					"x": 500,
+					"y": 400
 				}]
 			}
 		]

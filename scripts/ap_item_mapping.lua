@@ -23,7 +23,7 @@ ITEM_MAPPING = {
     [37737] = {"Sirens Call", "toggle"},
     [37735] = {"Sundered Grove", "toggle"},
     [37738] = {"Sky Meadow", "toggle"},
-    [37705] = {"Bulwark's Ambry", "toggle"},
+    [37705] = {"Bulwarks Ambry", "toggle"},
     [37706] = {"Bazaar Between Time", "toggle"},
     [37714] = {"Gilded Coast", "toggle"},
     [37727] = {"A Moment Whole","toggle"},
@@ -42,6 +42,7 @@ ITEM_MAPPING = {
     [37726] = {"The Simulacrum (Sky Meadow)","toggle"},
     [37745] = {"Void Locus","toggle"},
     [37746] = {"The Planetarium","toggle"},
+	
 
 }
 SETTINGS_MAPPING = {

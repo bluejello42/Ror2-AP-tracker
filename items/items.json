@@ -132,24 +132,6 @@
         "codes": "The Simulacrum (Sky Meadow)"
     },
 	{
-        "name": "Hidden Realm: A Moment, Whole",
-        "type": "toggle",
-        "img": "images/items/toggle.png",
-        "codes": "A Moment Whole"
-    },
-	{
-        "name": "Commencement",
-        "type": "toggle",
-        "img": "images/items/toggle.png",
-        "codes": "Commencement"
-    },
-	{
-        "name": "Hidden Realm: A Moment Fractured",
-        "type": "toggle",
-        "img": "images/items/toggle.png",
-        "codes": "A Moment Fractured"
-    },
-	{
         "name": "Sundered Grove",
         "type": "toggle",
         "img": "images/items/toggle.png",
@@ -180,40 +162,10 @@
         "codes": "Sulfur Pools"
     },
 	{
-        "name": "Void Locus",
-        "type": "toggle",
-        "img": "images/items/toggle.png",
-        "codes": "Void Locus"
-    },
-	{
-        "name": "The Planetarium",
-        "type": "toggle",
-        "img": "images/items/toggle.png",
-        "codes": "The Planetarium"
-    },
-	{
         "name": "Scorched Acres",
         "type": "toggle",
         "img": "images/items/toggle.png",
         "codes": "Scorched Acres"
-    },
-	{
-        "name": "Hidden Realm: Gilded Coast",
-        "type": "toggle",
-        "img": "images/items/toggle.png",
-        "codes": "Gilded Coast"
-    },
-	{
-        "name": "Hidden Realm: Bazaar Between Time",
-        "type": "toggle",
-        "img": "images/items/toggle.png",
-        "codes": "Bazaar Between Time"
-    },
-	{
-        "name": "Hidden Realm: Bulwark's Ambry",
-        "type": "toggle",
-        "img": "images/items/toggle.png",
-        "codes": "Bulwark's Ambry"
     },
 	{
         "name": "Abyssal Depths",
@@ -264,24 +216,24 @@
         "codes": "Scorched Acres"
     },
 	{
-    "name": "Explore mode",
-    "type": "toggle",
-    "loop": "true",
-    "img": "images/Explore Mode.png",
-    "codes": "exploreCheck"
+		"name": "Explore mode",
+		"type": "toggle",
+		"loop": "true",
+		"img": "images/Explore Mode.png",
+		"codes": "exploreCheck"
 	},
 	{
-    "name": "Classic mode",
-    "type": "toggle",
-    "loop": "true",
-    "img": "images/Classic Mode.png",
-    "codes": "classicCheck"
+		"name": "Classic mode",
+		"type": "toggle",
+		"loop": "true",
+		"img": "images/Classic Mode.png",
+		"codes": "classicCheck"
 	},
 	{
-    "name": "Chest count",
-    "type": "consumable",
-    "loop": "true",
-    "img": "images/Classic Mode.png",
-    "codes": "chestCount"
+		"name": "Chest count",
+		"type": "consumable",
+		"loop": "true",
+		"img": "images/Classic Mode.png",
+		"codes": "chestNumber"
 	}
 ]
