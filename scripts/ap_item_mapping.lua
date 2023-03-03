@@ -29,7 +29,7 @@ ITEM_MAPPING = {
     [37727] = {"A Moment Whole","toggle"},
     [37733] = {"A Moment Fractured","toggle"},
     [37704] = {"Void Fields", "toggle"},
-    [37732] = {"Commencement","toggle"},
+    [37732] = {"Moon","toggle"},
     [37739] = {"Siphoned Forest","toggle"},
     [37703] = {"Aphelian Sanctuary","toggle"},
     [37741] = {"Sulfur Pools","toggle"},
@@ -40,8 +40,8 @@ ITEM_MAPPING = {
     [37724] = {"The Simulacrum (Abandoned Aqueduct)","toggle"},
     [37725] = {"The Simulacrum (Commencement)","toggle"},
     [37726] = {"The Simulacrum (Sky Meadow)","toggle"},
-    [37745] = {"Void Locus","toggle"},
-    [37746] = {"The Planetarium","toggle"},
+    [37745] = {"VoidLocus","toggle"},
+    [37746] = {"Planetarium","toggle"},
 	
 
 }
