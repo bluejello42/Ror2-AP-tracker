@@ -1,4 +1,4 @@
-LOCATION_MAPPING = {
+LOCATION_MAPPING = {        
     [38998] = {"@Explore/Abandoned Aqueduct/Chest"},
     [39007] = {"@Explore/Abandoned Aqueduct/Chest"},
     [39008] = {"@Explore/Abandoned Aqueduct/Chest"},

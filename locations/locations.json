@@ -563,9 +563,9 @@
 					"Moon"
 				],
 				"sections": [{
-					"hosted_item": "Moon",
+					"name": "Commencement",
 					"clear_as_group": true,
-					"item_count": 0
+					"item_count": 1
 				}],
 				"map_locations": [{
 					"map": "map1",
@@ -579,9 +579,9 @@
 					"Bazaar Between Time"
 				],
 				"sections": [{
-					"hosted_item": "Bazaar Between Time",
-					"clear_as_group": true,
-					"item_count": 0
+					"name": "Hidden Realm: Bazaar Between Time",
+					"clear_as_group": false,
+					"item_count": 1
 				}],
 				"map_locations": [{
 					"map": "map1",
@@ -595,9 +595,9 @@
 					"A Moment Fractured"
 				],
 				"sections": [{
-					"hosted_item": "A Moment Fractured",
-					"clear_as_group": true,
-					"item_count": 0
+					"name": "Hidden Realm: A Moment Fractured",
+					"clear_as_group": false,
+					"item_count": 1
 				}],
 				"map_locations": [{
 					"map": "map1",
@@ -611,9 +611,9 @@
 					"A Moment Whole"
 				],
 				"sections": [{
-					"hosted_item": "A Moment Whole",
-					"clear_as_group": true,
-					"item_count": 0
+					"name": "Hidden Realm: A Moment Whole",
+					"clear_as_group": false,
+					"item_count": 1
 				}],
 				"map_locations": [{
 					"map": "map1",
@@ -627,9 +627,9 @@
 					"Gilded Coast"
 				],
 				"sections": [{
-					"hosted_item": "Gilded Coast",
-					"clear_as_group": true,
-					"item_count": 0
+					"name": "Hidden Realm: Gilded Coast",
+					"clear_as_group": false,
+					"item_count": 1
 				}],
 				"map_locations": [{
 					"map": "map1",
@@ -643,9 +643,9 @@
 					"Bulwarks Ambry"
 				],
 				"sections": [{
-					"hosted_item": "Bulwarks Ambry",
-					"clear_as_group": true,
-					"item_count": 0
+					"name": "Hidden Realm: Bulwarks Ambry",
+					"clear_as_group": false,
+					"item_count": 1
 				}],
 				"map_locations": [{
 					"map": "map1",
@@ -659,9 +659,9 @@
 					"VoidLocus"
 				],
 				"sections": [{
-					"hosted_item": "VoidLocus",
-					"clear_as_group": true,
-					"item_count": 0
+					"name": "Void Locus",
+					"clear_as_group": false,
+					"item_count": 1
 				}],
 				"map_locations": [{
 					"map": "map1",
@@ -675,9 +675,9 @@
 					"Planetarium"
 				],
 				"sections": [{
-					"hosted_item": "Planetarium",
-					"clear_as_group": true,
-					"item_count": 0
+					"name": "The Planetarium",
+					"clear_as_group": false,
+					"item_count": 1
 				}],
 				"map_locations": [{
 					"map": "map1",
