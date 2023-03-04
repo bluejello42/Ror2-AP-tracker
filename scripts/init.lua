@@ -12,7 +12,6 @@ end
 ScriptHost:LoadScript("scripts/utils.lua")
 
 -- Logic
-ScriptHost:LoadScript("scripts/logic.lua")
 
 -- Items
 Tracker:AddItems("items/items.json")
