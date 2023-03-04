@@ -62,7 +62,6 @@ function onClear(slot_data)
     end
     LOCAL_ITEMS = {}
     GLOBAL_ITEMS = {}
-
 	
 	for k, v in pairs(SETTINGS_MAPPING) do
 		obj = Tracker:FindObjectForCode(v)
