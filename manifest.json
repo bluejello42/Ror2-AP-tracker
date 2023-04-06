@@ -1,7 +1,7 @@
 {
-  "name": "Ror2test",
+  "name": "Risk of Rain 2",
   "game_name": "Risk of Rain 2 ",
-  "package_version": "0.0.3",
+  "package_version": "0.0.4",
   "package_uid": "risk_ap_tracker",
   "author": "Bluejello",
   "variants": {
