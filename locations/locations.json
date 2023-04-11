@@ -1362,7 +1362,7 @@
 			{
 				"name": "Void Fields",
 				"access_rules": [
-					"VoidLocus"
+					"VoidFieldss"
 				],
 				"sections": [{
 					"name": "Void Field",
