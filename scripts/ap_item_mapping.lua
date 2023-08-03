@@ -40,8 +40,8 @@ ITEM_MAPPING = {
     [37724] = {"The Simulacrum (Abandoned Aqueduct)","toggle"},
     [37725] = {"The Simulacrum (Commencement)","toggle"},
     [37726] = {"The Simulacrum (Sky Meadow)","toggle"},
-    [37745] = {"VoidLocus","toggle"},
-    [37746] = {"Planetarium","toggle"},
+    [37746] = {"VoidLocus","toggle"},
+    [37745] = {"Planetarium","toggle"},
 	
 
 }
