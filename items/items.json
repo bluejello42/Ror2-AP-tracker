@@ -6,6 +6,12 @@
         "codes": "Dios Best Friend"
     },
     {
+        "name": "Beads of Fealty",
+        "type": "toggle",
+        "img": "images/lunar.png",
+        "codes": "LunarTrinket"
+    },
+    {
         "name": "Common item",
         "type": "consumable",
         "img": "images/white.png",

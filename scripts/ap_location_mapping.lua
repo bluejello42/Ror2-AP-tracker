@@ -908,5 +908,5 @@ LOCATION_MAPPING = {
     [38803] = {"@Explore/Wetland Aspect Shrine/1"},
     [38804] = {"@Explore/Wetland Aspect Shrine/1"},
     [38805] = {"@Explore/Wetland Aspect Shrine/1"},
-    [38806] = {"@Explore/Wetland Aspect Shrine"}
+    [38806] = {"@Explore/Wetland Aspect Shrine/1"}
 }
