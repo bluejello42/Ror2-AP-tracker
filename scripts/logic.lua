@@ -31,7 +31,7 @@ end
 function Zone3Access()
     local value = 
         Tracker:ProviderCountForCode("Rallypoint Delta") +
-        Tracker:ProviderCountForCode("Sulfure Pools") +
+        Tracker:ProviderCountForCode("Sulfur Pools") +
         Tracker:ProviderCountForCode("Scorched Acres")
 
 	if (value > 0) then
