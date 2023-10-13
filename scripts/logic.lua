@@ -44,7 +44,7 @@ end
 function Zone4Access()
     local value = 
         Tracker:ProviderCountForCode("Abyssal Depths") +
-        Tracker:ProviderCountForCode("Siren's Call") +
+        Tracker:ProviderCountForCode("Sirens Call") +
         Tracker:ProviderCountForCode("Sundered Grove")
 
 	if (value > 0 ) then

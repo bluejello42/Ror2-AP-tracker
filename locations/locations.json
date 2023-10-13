@@ -72,7 +72,9 @@
 			{
 				"name": "Distant Roost Scavenger",
 				"access_rules": [
+				
 					"Distant Roost"
+					"Distant Roost,$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow"
 				],
 				"sections": [{
 				"name": "1",
@@ -156,7 +158,8 @@
 			{
 				"name": "Distant Roost (2) Scavenger",
 				"access_rules": [
-					"Distant Roost (2)"
+					"{Distant Roost (2)}"
+					"Distant Roost (2),$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow"
 				],
 				"sections": [{
 				"name": "1",
@@ -241,7 +244,8 @@
 			{
 				"name": "Abandoned Aqueduct Scavenger",
 				"access_rules": [
-					"Abandoned Aqueduct"
+					"{Abandoned Aqueduct}",
+					"Abandoned Aqueduct,$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow"
 				],
 				"sections": [{
 				"name": "1",
@@ -330,7 +334,7 @@
 				"name": "Abyssal Depths Scavenger",
 				"access_rules": [
 					"{Abyssal Depths}",
-					"$Zone1Access,$Zone2Access,$Zone3Access,Abyssal Depths"
+					"$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow,Abyssal Depths"
 				],
 				"sections": [{
 				"name": "1",
@@ -419,7 +423,7 @@
 				"name": "Aphelian Sanctuary Scavenger",
 				"access_rules": [
 					"{Aphelian Sanctuary}",
-					"$Zone1Access,Aphelian Sanctuary"
+					"$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow,Aphelian Sanctuary"
 				],
 				"sections": [{
 				"name": "1",
@@ -507,7 +511,7 @@
 			{
 				"name": "Rallypoint Delta Scavenger",
 				"access_rules": [
-				"$Zone1Access,$Zone2Access,Rallypoint Delta",
+				"$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow,Rallypoint Delta",
 				"{Rallypoint Delta}"
 				],
 				"sections": [{
@@ -597,7 +601,7 @@
 				"name": "Scorched Acres Scavenger",
 				"access_rules": [
 					"{Scorched Acres}",
-					"$Zone1Access,$Zone2Access,Scorched Acres"
+					"$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow,Scorched Acres"
 				],
 				"sections": [{
 				"name": "1",
@@ -681,7 +685,8 @@
 			{
 				"name": "Siphoned Forest Scavenger",
 				"access_rules": [
-					"Siphoned Forest"
+					"{Siphoned Forest}",
+					"$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow,Siphoned Forest"
 				],
 				"sections": [{
 				"name": "1",
@@ -770,7 +775,7 @@
 				"name": "Sirens Call Scavenger",
 				"access_rules": [
 					"{Sirens Call}",
-					"$Zone1Access,$Zone2Access,$Zone3Access,Sirens Call"
+					"$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow,Sirens Call"
 				],
 				"sections": [{
 				"name": "1",
@@ -948,7 +953,7 @@
 				"name": "Sulfur Pools Scavenger",
 				"access_rules": [
 					"{Sulfur Pools}",
-					"$Zone1Access,$Zone2Access,Sulfur Pools"
+					"$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow,Sulfur Pools"
 				],
 				"sections": [{
 				"name": "1",
@@ -1037,7 +1042,7 @@
 				"name": "Sundered Grove Scavenger",
 				"access_rules": [
 					"{Sundered Grove}",
-					"$Zone1Access,$Zone2Access,$Zone3Access,Sundered Grove"
+					"$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow,Sundered Grove"
 				],
 				"sections": [{
 				"name": "1",
@@ -1121,7 +1126,8 @@
 			{
 				"name": "Titanic Plains (2) Scavenger",
 				"access_rules": [
-					"Titanic Plains (2)"
+					"{Titanic Plains (2)}"
+					"$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow,Titanic Plains (2)"
 				],
 				"sections": [{
 				"name": "1",
@@ -1205,7 +1211,8 @@
 			{
 				"name": "Titanic Plains Scavenger",
 				"access_rules": [
-					"Titanic Plains"
+					"{Titanic Plains}"
+					"$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow,Titanic Plains"
 				],
 				"sections": [{
 				"name": "1",
@@ -1293,7 +1300,7 @@
 			{
 				"name": "Wetland Aspect Scavenger",
 				"access_rules": [
-				"$Zone1Access,Wetland Aspect",
+				"$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow,Wetland Aspect",
 				"{Wetland Aspect}"
 				],
 				"sections": [{
@@ -1453,7 +1460,7 @@
 				}],
 				"map_locations": [{
 					"map": "map1",
-					"x": 715,
+					"x": 755,
 					"y": 525
 				}]
 			}

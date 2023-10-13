@@ -1,16 +1,16 @@
 
 // sets layouts for shadred items grids
 // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+
 {
     "shared_item_grid": {
-        "type": "array",
-        "orientation": "vertical",
+        "type": "dock",
+        "orientation": "top",
         "margin": "0,0",
         "content": [
 			{
 				"type": "group",
 				"header": "Items",
-                "orientation": "Vertical",
                 "margin": "0,0",
                 "content": [
                     {
@@ -31,13 +31,12 @@
 								"Void Item"
                             ]
                         ]
-                    }
+                    },
                 ]
             }
 			,{
                 "type": "group",
 				"header": "scrap",
-                "orientation": "Vertical",
                 "margin": "0,0",
                 "content": [
                     {
@@ -58,5 +57,3 @@
         ]
     }
 }
-
-
