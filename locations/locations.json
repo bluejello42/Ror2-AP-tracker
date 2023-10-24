@@ -73,7 +73,7 @@
 				"name": "Distant Roost Scavenger",
 				"access_rules": [
 				
-					"Distant Roost"
+					"Distant Roost",
 					"Distant Roost,$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow"
 				],
 				"sections": [{
@@ -158,7 +158,7 @@
 			{
 				"name": "Distant Roost (2) Scavenger",
 				"access_rules": [
-					"{Distant Roost (2)}"
+					"{Distant Roost (2)}",
 					"Distant Roost (2),$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow"
 				],
 				"sections": [{
@@ -1126,7 +1126,7 @@
 			{
 				"name": "Titanic Plains (2) Scavenger",
 				"access_rules": [
-					"{Titanic Plains (2)}"
+					"{Titanic Plains (2)}",
 					"$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow,Titanic Plains (2)"
 				],
 				"sections": [{
@@ -1211,7 +1211,7 @@
 			{
 				"name": "Titanic Plains Scavenger",
 				"access_rules": [
-					"{Titanic Plains}"
+					"{Titanic Plains}",
 					"$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow,Titanic Plains"
 				],
 				"sections": [{
@@ -1368,8 +1368,8 @@
 			{
 				"name": "Hidden Realm: A Moment Whole",
 				"access_rules": [
-					"A Moment Whole,A Moment Fractured,[LunarTrinket]",
-					"{A Moment Whole,A Moment Fractured}"
+					"A Moment Whole,A Moment Fractured",
+					"{A Moment Fractured}"
 				],
 				"sections": [{
 					"name": "Hidden Realm: A Moment Whole",
