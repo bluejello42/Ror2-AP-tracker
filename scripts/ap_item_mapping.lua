@@ -42,7 +42,12 @@ ITEM_MAPPING = {
     [37726] = {"The Simulacrum (Sky Meadow)","toggle"},
     [37746] = {"VoidLocus","toggle"},
     [37745] = {"Planetarium","toggle"},
-    [37013] = {"LunarTrinket","toggle"},	
+    [37013] = {"LunarTrinket","toggle"},
+    [37301] = {"Money","consumable"},	
+    [37501] = {"Stage 1","consumable"},
+    [37502] = {"Stage 2","consumable"},
+    [37503] = {"Stage 3","consumable"},
+    [37504] = {"Stage 4","consumable"},
 
 }
 SETTINGS_MAPPING = {
