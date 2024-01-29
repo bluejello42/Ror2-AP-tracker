@@ -6,7 +6,7 @@ function Zone1Access()
         Tracker:ProviderCountForCode("Titanic Plains (2)") +
         Tracker:ProviderCountForCode("Siphoned Forest") 
 
-	if (value > 0) then
+	if (value > 0) and (Tracker:ProviderCountForCode("Stage 1") > 0) then
 		return 1
     end
 	
@@ -22,7 +22,7 @@ function Zone2Access()
         Tracker:ProviderCountForCode("Wetland Aspect") +
         Tracker:ProviderCountForCode("Aphelian Sanctuary")
 		
-	if (value > 0) then
+	if (value > 0) and (Tracker:ProviderCountForCode("Stage 2") > 0) then
 		return 1
     end
 	return 0
@@ -34,7 +34,7 @@ function Zone3Access()
         Tracker:ProviderCountForCode("Sulfur Pools") +
         Tracker:ProviderCountForCode("Scorched Acres")
 
-	if (value > 0) then
+	if (value > 0) and (Tracker:ProviderCountForCode("Stage 3") > 0) then
 		return 1
     end
 	
@@ -47,7 +47,8 @@ function Zone4Access()
         Tracker:ProviderCountForCode("Sirens Call") +
         Tracker:ProviderCountForCode("Sundered Grove")
 
-	if (value > 0 ) then
+	if (value > 0 ) and (Tracker:ProviderCountForCode("Stage 4") > 0) then
+
 		return 1
     end
 	

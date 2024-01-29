@@ -4,33 +4,53 @@
 
 {
     "shared_item_grid": {
-        "type": "dock",
-        "orientation": "top",
-        "margin": "0,0",
+        "type": "array",
+        "orientation": "Vertical",
         "content": [
 			{
-				"type": "group",
-				"header": "Items",
-                "margin": "0,0",
+				"type": "dock",
                 "content": [
                     {
-                        "type": "itemgrid",
-                        "item_margin": "10, 10",
-                        "h_alignment": "left",
-						"item_size": 4,
-                        "rows": [
-                            [
-								"LunarTrinket",
-                                "Dios Best Friend",
-								"Common item",
-								"Uncommon item",          
-								"Legendary item",
-								"Boss item",
-								"Lunar item",
-								"Equipment",
-								"Void Item"
-                            ]
-                        ]
+                        "type": "group",
+						"header": "Items",
+                        "dock": "left",
+						"content":{
+							"type": "itemgrid",
+							"item_margin": "10, 10",
+							"h_alignment": "left",
+							"item_size": 4,
+							"rows": [
+								[
+									"LunarTrinket",
+									"Dios Best Friend",
+									"Common item",
+									"Uncommon item",          
+									"Legendary item",
+									"Boss item",
+									"Lunar item",
+									"Equipment",
+									"Void Item"
+								]
+							]
+						},
+                    },{
+                        "type": "group",
+						"header": "Stage",
+                        "dock": "left",
+						"content":{
+							"type": "itemgrid",
+							"item_margin": "10, 10",
+							"h_alignment": "left",
+							"item_size": 4,
+							"rows": [
+								[
+									"Stage 1",
+									"Stage 2",
+									"Stage 3",
+									"Stage 4"
+								]
+							]
+						},
                     },
                 ]
             }
