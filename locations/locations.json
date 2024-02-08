@@ -193,7 +193,8 @@
 			{
 				"name": "Abandoned Aqueduct Shrine",
 				"access_rules": [
-					"Abandoned Aqueduct"
+					"{Abandoned Aqueduct}",
+					"$Zone1Access, Abandoned Aqueduct"
 				],
 				"sections": [{
 				"name": "1",
@@ -209,7 +210,8 @@
 			},{
 				"name": "Abandoned Aqueduct Newt Altar",
 				"access_rules": [
-					"Abandoned Aqueduct"
+					"{Abandoned Aqueduct}",
+					"$Zone1Access, Abandoned Aqueduct"
 				],
 				"sections": [{
 				"name": "1",
@@ -226,7 +228,8 @@
 			{
 				"name": "Abandoned Aqueduct Radio Scanner",
 				"access_rules": [
-					"Abandoned Aqueduct"
+					"{Abandoned Aqueduct}",
+					"$Zone1Access, Abandoned Aqueduct"
 				],
 				"sections": [{
 				"name": "1",
@@ -1400,7 +1403,8 @@
 			{
 				"name": "Hidden Realm: Bulwark's Ambry",
 				"access_rules": [
-					"Bulwarks Ambry"
+					"{Bulwarks Ambry}",
+					"Distant Roost,$Zone1Access,$Zone2Access,$Zone3Access,$Zone4Access,Sky Meadow, Bulwarks Ambry"
 				],
 				"sections": [{
 					"name": "Hidden Realm: Bulwarks Ambry",
@@ -1459,7 +1463,7 @@
 				}],
 				"map_locations": [{
 					"map": "map1",
-					"x": 755,
+					"x": 715,
 					"y": 525
 				}]
 			}
