@@ -48,6 +48,7 @@ ITEM_MAPPING = {
     [37502] = {"Stage 2","consumable"},
     [37503] = {"Stage 3","consumable"},
     [37504] = {"Stage 4","consumable"},
+    [37505] = {"Progressive Stage","consumable"},
 
 }
 SETTINGS_MAPPING = {

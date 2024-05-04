@@ -250,26 +250,32 @@
     },
 	{
         "name": "Stage 1",
-        "type": "consumable",
+        "type": "toggle",
         "img": "images/stage1.png",
         "codes": "Stage 1"
     },
 	{
         "name": "Stage 2",
-        "type": "consumable",
+        "type": "toggle",
         "img": "images/stage2.png",
         "codes": "Stage 2"
     },
 	{
         "name": "Stage 3",
-        "type": "consumable",
+        "type": "toggle",
         "img": "images/stage3.png",
         "codes": "Stage 3"
     },
 	{
         "name": "Stage 4",
-        "type": "consumable",
+        "type": "toggle",
         "img": "images/stage4.png",
         "codes": "Stage 4"
+    },
+	{
+        "name": "Progressive Stage",
+        "type": "consumable",
+        "img": "images/Progressive Stage.png",
+        "codes": "Progressive Stage"
     }
 ]
