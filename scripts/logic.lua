@@ -24,9 +24,9 @@ function Zone2Access()
         Tracker:ProviderCountForCode("Wetland Aspect") +
         Tracker:ProviderCountForCode("Aphelian Sanctuary")
 		
-	if (value > 0) and (Tracker:ProviderCountForCode("Stage 2") > 0) or (Tracker:ProviderCountForCode("Progressive Stage") > 1) then
+	if (value > 0) and (Tracker:ProviderCountForCode("Stage 2") > 0) then
 		return 1
-	elseif (value > 0 ) and (Tracker:ProviderCountForCode("Progressive Stage") > 1) then
+	elseif (value > 0) and (Tracker:ProviderCountForCode("Progressive Stage") > 1) then
     end
 	
 	return 0
@@ -38,9 +38,9 @@ function Zone3Access()
         Tracker:ProviderCountForCode("Sulfur Pools") +
         Tracker:ProviderCountForCode("Scorched Acres")
 
-	if (value > 0) and (Tracker:ProviderCountForCode("Stage 3") > 0) or (Tracker:ProviderCountForCode("Progressive Stage") > 2) then
+	if (value > 0) and (Tracker:ProviderCountForCode("Stage 3") > 0) then
 		return 1
-	elseif (value > 0 ) and (Tracker:ProviderCountForCode("Progressive Stage") > 2) then
+	elseif (value > 0) and (Tracker:ProviderCountForCode("Progressive Stage") > 2) then
 		return 1
     end
 	
@@ -53,9 +53,9 @@ function Zone4Access()
         Tracker:ProviderCountForCode("Sirens Call") +
         Tracker:ProviderCountForCode("Sundered Grove")
 
-	if (value > 0 ) and (Tracker:ProviderCountForCode("Stage 4") > 0) then
+	if (value > 0) and (Tracker:ProviderCountForCode("Stage 4") > 0) then
 		return 1
-	elseif (value > 0 ) and (Tracker:ProviderCountForCode("Progressive Stage") > 3) then
+	elseif (value > 0) and (Tracker:ProviderCountForCode("Progressive Stage") > 3) then
 		return 1
     end
 	
