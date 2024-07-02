@@ -204,6 +204,12 @@
         "codes": "Titanic Plains"
     },
 	{
+        "name": "Verdant Falls",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "Verdant Falls"
+	},
+	{
         "name": "Distant Roost Alternative",
         "type": "toggle",
         "img": "images/items/toggle.png",

@@ -33,6 +33,7 @@ ITEM_MAPPING = {
     [37739] = {"Siphoned Forest","toggle"},
     [37703] = {"Aphelian Sanctuary","toggle"},
     [37741] = {"Sulfur Pools","toggle"},
+	[37728] = {"Verdant Falls","toggle"},
     [37720] = {"The Simulacrum (Aphelian Sanctuary)","toggle"},
     [37721] = {"The Simulacrum (Abyssal Depths)","toggle"},
     [37722] = {"The Simulacrum (Rallypoint Delta)","toggle"},
