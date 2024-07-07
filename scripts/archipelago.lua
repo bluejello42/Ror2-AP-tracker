@@ -96,6 +96,7 @@ function onClear(slot_data)
             Tracker:FindObjectForCode('@Explore/Titanic Plains (2) Chest/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Titanic Plains Chest/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Wetland Aspect Chest/1').AvailableChestCount = value
+            Tracker:FindObjectForCode('@Explore/Verdant Falls Chest/1').AvailableChestCount = value
 		elseif k == "shrinesPerStage" then
             Tracker:FindObjectForCode('@Explore/Abandoned Aqueduct Shrine/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Abyssal Depths Shrine/1').AvailableChestCount = value
@@ -112,6 +113,7 @@ function onClear(slot_data)
             Tracker:FindObjectForCode('@Explore/Titanic Plains (2) Shrine/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Titanic Plains Shrine/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Wetland Aspect Shrine/1').AvailableChestCount = value
+            Tracker:FindObjectForCode('@Explore/Verdant Falls Shrine/1').AvailableChestCount = value
 		elseif k == "altarsPerStage" then	
             Tracker:FindObjectForCode('@Explore/Abandoned Aqueduct Newt Altar/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Abyssal Depths Newt Altar/1').AvailableChestCount = value
@@ -128,6 +130,7 @@ function onClear(slot_data)
             Tracker:FindObjectForCode('@Explore/Titanic Plains (2) Newt Altar/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Titanic Plains Newt Altar/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Wetland Aspect Newt Altar/1').AvailableChestCount = value
+            Tracker:FindObjectForCode('@Explore/Verdant Falls Newt Altar/1').AvailableChestCount = value
 		elseif k == "scannerPerStage" then	
             Tracker:FindObjectForCode('@Explore/Abandoned Aqueduct Radio Scanner/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Abyssal Depths Radio Scanner/1').AvailableChestCount = value
@@ -144,6 +147,7 @@ function onClear(slot_data)
             Tracker:FindObjectForCode('@Explore/Titanic Plains (2) Radio Scanner/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Titanic Plains Radio Scanner/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Wetland Aspect Radio Scanner/1').AvailableChestCount = value
+            Tracker:FindObjectForCode('@Explore/Verdant Falls Radio Scanner/1').AvailableChestCount = value
 		elseif k == "scavengersPerStage" then	
             Tracker:FindObjectForCode('@Explore/Abandoned Aqueduct Scavenger/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Abyssal Depths Scavenger/1').AvailableChestCount = value
@@ -160,6 +164,7 @@ function onClear(slot_data)
             Tracker:FindObjectForCode('@Explore/Titanic Plains (2) Scavenger/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Titanic Plains Scavenger/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Wetland Aspect Scavenger/1').AvailableChestCount = value
+            Tracker:FindObjectForCode('@Explore/Verdant Falls Scavenger/1').AvailableChestCount = value
 		elseif k == "totalLocations" then	
 			Tracker:FindObjectForCode('@Classic/Item Pickup/ItemPickup').AvailableChestCount = value
 			
