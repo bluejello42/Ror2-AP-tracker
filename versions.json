@@ -1,9 +1,9 @@
 {
     "versions": [
         {
-            "package_version": "1.1b",
-            "download_url": "https://github.com/bluejello42/Ror2-AP-tracker/releases/download/1.1b/Ror_tracker_1.1b.zip",
-            "sha256": "EB1465DFEDC153FEE465AA5B0ED3149DFCCE05806C1329643EE98DC8BCA5EBD5",
+            "package_version": "1.2",
+            "download_url": "https://github.com/bluejello42/Ror2-AP-tracker/releases/download/1.2/Ror_tracker_1.2.zip",
+            "sha256": "059BDE78C2223AD63F10FB2993530A00ADB0FA56C2E89D4A469D052EC3F489F0",
             "changelog": [
                 "fixed missing logic-verdant falls unlocks zone 1 access",
                 "changed outline for sundered Grove to black, as it isn't part of the SotV DLC"
