@@ -11,7 +11,7 @@
         },
         {
             "package_version": "1.1a",
-            "download_url": "http://example.com/pack_0.9.9.zip",
+            "download_url": "https://github.com/bluejello42/Ror2-AP-tracker/releases/download/1.1a/Ror_tracker_1.1a.zip",
             "sha256": "36EA6821ED7D88ED9086C4142F4AF0B079BF89AC51FD6858CD86BC84923E2136",
             "changelog": [
                 "initial version"
