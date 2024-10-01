@@ -4,7 +4,8 @@ function Zone1Access()
         Tracker:ProviderCountForCode("Distant Roost (2)") +
         Tracker:ProviderCountForCode("Titanic Plains") +
         Tracker:ProviderCountForCode("Titanic Plains (2)") +
-        Tracker:ProviderCountForCode("Siphoned Forest") 
+        Tracker:ProviderCountForCode("Siphoned Forest") +
+        Tracker:ProviderCountForCode("Verdant Fall") 
 
 	if (value > 0) and (Tracker:ProviderCountForCode("Stage 1") > 0) then
 		return 1
