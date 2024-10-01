@@ -1,9 +1,0 @@
-//more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
-[
-    {
-        "name": "map1",
-        "location_size":18,
-        "location_border_thickness": 1,
-        "img": "images/maps/map.png"
-    }
-]
