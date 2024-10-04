@@ -14,7 +14,7 @@
             "sha256": "A97877AE5CF59D2F08F82052C76C7B9C74270A23350E4C6769DB30075CF8DB1E",
             "changelog": [
                 "fixed missing logic-verdant falls unlocks zone 1 access",
-                "changed outline for sundered Grove to black, as it isn't part of the SotV DLC"
+                "changed outline for sundered Grove to black, as it isn't part of the SotV DLC",
                 "added auto-updating"
             ]
         },
