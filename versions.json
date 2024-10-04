@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "1.3",
+            "download_url": "https://github.com/bluejello42/Ror2-AP-tracker/releases/download/1.3/Ror_tracker_1.3.zip",
+            "sha256": "F968F6BF535063D04A8670971CEAB8DC92B986DA9AD792DC1EB02FFAD3E29416",
+            "changelog": [
+                "added logic for A Moment, Whole and the beads of fealty.  will show as yellow if you don't have the AP item Beads of Fealty"
+            ]
+        },
+        {
             "package_version": "1.2",
             "download_url": "https://github.com/bluejello42/Ror2-AP-tracker/releases/download/1.2/Ror_tracker_1.2.zip",
             "sha256": "A97877AE5CF59D2F08F82052C76C7B9C74270A23350E4C6769DB30075CF8DB1E",
