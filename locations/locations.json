@@ -1355,7 +1355,7 @@
 			{
 				"name": "Hidden Realm: A Moment Whole",
 				"access_rules": [
-					"A Moment Whole,A Moment Fractured",
+					"A Moment Whole,A Moment Fractured,[LunarTrinket]",
 					"{A Moment whole}"
 				],
 				"sections": [{
