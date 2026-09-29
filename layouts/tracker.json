@@ -27,13 +27,680 @@
                     ]
                 },
                 {
-                    "type": "container",
-						"content": {
-							"type": "map",
-                            "maps": [
-                            "map1"
-                            ]
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Stage 1",
+                            "content": {
+                                "type": "dock",
+                                "content": [
+                                    {
+                                        "type": "dock",
+                                        "dock": "top",
+                                        "margin": "0,0,0,6",
+                                        "content": [
+                                            {
+                                                "type": "group",
+                                                "header": "Distant Roost",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_distant_roost"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Distant Roost (2)",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_distant_roost_2"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Titanic Plains",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_titanic_plains"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Titanic Plains (2)",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_titanic_plains_2"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Verdant Falls",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_verdant_falls"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "container"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "dock",
+                                        "dock": "top",
+                                        "margin": "0,0,0,6",
+                                        "content": [
+                                            {
+                                                "type": "group",
+                                                "header": "Siphoned Forest",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_siphoned_forest"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Shattered Abodes",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_shattered_abodes"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Viscous Falls",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_viscous_falls"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Disturbed Impact",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_disturbed_impact"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "container"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "container"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Stage 2",
+                            "content": {
+                                "type": "dock",
+                                "content": [
+                                    {
+                                        "type": "dock",
+                                        "dock": "top",
+                                        "margin": "0,0,0,6",
+                                        "content": [
+                                            {
+                                                "type": "group",
+                                                "header": "Abandoned Aqueduct",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_abandoned_aqueduct"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Wetland Aspect",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_wetland_aspect"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Aphelian Sanctuary",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_aphelian_sanctuary"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Reformed Altar",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_reformed_altar"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Pretender's Precipice",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_pretenders_precipice"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "container"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "container"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Stage 3",
+                            "content": {
+                                "type": "dock",
+                                "content": [
+                                    {
+                                        "type": "dock",
+                                        "dock": "top",
+                                        "margin": "0,0,0,6",
+                                        "content": [
+                                            {
+                                                "type": "group",
+                                                "header": "Rallypoint Delta",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_rallypoint_delta"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Scorched Acres",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_scorched_acres"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Sulfur Pools",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_sulfur_pools"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Treeborn Colony",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_treeborn_colony"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Golden Dieback",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_golden_dieback"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "container"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "dock",
+                                        "dock": "top",
+                                        "margin": "0,0,0,6",
+                                        "content": [
+                                            {
+                                                "type": "group",
+                                                "header": "Iron Alluvium",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_iron_alluvium"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Iron Auroras",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_iron_auroras"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "container"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "container"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Stage 4",
+                            "content": {
+                                "type": "dock",
+                                "content": [
+                                    {
+                                        "type": "dock",
+                                        "dock": "top",
+                                        "margin": "0,0,0,6",
+                                        "content": [
+                                            {
+                                                "type": "group",
+                                                "header": "Abyssal Depths",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_abyssal_depths"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Sirens Call",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_sirens_call"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Sundered Grove",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_sundered_grove"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Conduit Canyon",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_conduit_canyon"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Repurposed Crater",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_repurposed_crater"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "container"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "container"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Stage 5",
+                            "content": {
+                                "type": "dock",
+                                "content": [
+                                    {
+                                        "type": "dock",
+                                        "dock": "top",
+                                        "margin": "0,0,0,6",
+                                        "content": [
+                                            {
+                                                "type": "group",
+                                                "header": "Sky Meadow",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_sky_meadow"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Helminth Hatchery",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_helminth_hatchery"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "container"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "container"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Hidden Realms",
+                            "content": {
+                                "type": "dock",
+                                "content": [
+                                    {
+                                        "type": "dock",
+                                        "dock": "top",
+                                        "margin": "0,0,0,6",
+                                        "content": [
+                                            {
+                                                "type": "group",
+                                                "header": "Commencement",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_commencement"
+                                                    ]
+                                                },
+                                                "max_height": 70
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Bazaar Between Time",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_hidden_realm_bazaar_between_time"
+                                                    ]
+                                                },
+                                                "max_height": 70
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "A Moment Fractured",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_hidden_realm_a_moment_fractured"
+                                                    ]
+                                                },
+                                                "max_height": 70
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "A Moment Whole",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_hidden_realm_a_moment_whole"
+                                                    ]
+                                                },
+                                                "max_height": 70
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Gilded Coast",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_hidden_realm_gilded_coast"
+                                                    ]
+                                                },
+                                                "max_height": 70
+                                            },
+                                            {
+                                                "type": "container"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "dock",
+                                        "dock": "top",
+                                        "margin": "0,0,0,6",
+                                        "content": [
+                                            {
+                                                "type": "group",
+                                                "header": "Bulwark's Ambry",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_hidden_realm_bulwark_s_ambry"
+                                                    ]
+                                                },
+                                                "max_height": 70
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Void Fields",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_void_fields"
+                                                    ]
+                                                },
+                                                "max_height": 70
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Void Lotus",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_void_lotus"
+                                                    ]
+                                                },
+                                                "max_height": 70
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "The Planetarium",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_the_planetarium"
+                                                    ]
+                                                },
+                                                "max_height": 70
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Prime Meridian",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_prime_meridian"
+                                                    ]
+                                                },
+                                                "max_height": 70
+                                            },
+                                            {
+                                                "type": "container"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "dock",
+                                        "dock": "top",
+                                        "margin": "0,0,0,6",
+                                        "content": [
+                                            {
+                                                "type": "group",
+                                                "header": "Solutional Haunt",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_solutional_haunt"
+                                                    ]
+                                                },
+                                                "max_height": 70
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Computational Exchange",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_computational_exchange"
+                                                    ]
+                                                },
+                                                "max_height": 70
+                                            },
+                                            {
+                                                "type": "group",
+                                                "header": "Neural Sanctum",
+                                                "dock": "left",
+                                                "margin": "0,0,6,6",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "map_neural_sanctum"
+                                                    ]
+                                                },
+                                                "max_height": 70
+                                            },
+                                            {
+                                                "type": "container"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "container"
+                                    }
+                                ]
+                            }
                         }
+                    ]
                 }
             ]
         }

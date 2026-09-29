@@ -2,8 +2,254 @@
 [
     {
         "name": "map1",
-        "location_size":18,
+        "location_size": 18,
         "location_border_thickness": 1,
         "img": "images/maps/map.png"
+    },
+    {
+        "name": "map_shattered_abodes",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist_sots.png"
+    },
+    {
+        "name": "map_viscous_falls",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist_sots.png"
+    },
+    {
+        "name": "map_disturbed_impact",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist_sots.png"
+    },
+    {
+        "name": "map_pretenders_precipice",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist_ac.png"
+    },
+    {
+        "name": "map_reformed_altar",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist_sots.png"
+    },
+    {
+        "name": "map_iron_alluvium",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist_ac.png"
+    },
+    {
+        "name": "map_iron_auroras",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist_ac.png"
+    },
+    {
+        "name": "map_helminth_hatchery",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist_sots.png"
+    },
+    {
+        "name": "map_treeborn_colony",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist_sots.png"
+    },
+    {
+        "name": "map_golden_dieback",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist_sots.png"
+    },
+    {
+        "name": "map_conduit_canyon",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist_ac.png"
+    },
+    {
+        "name": "map_repurposed_crater",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist_ac.png"
+    },
+    {
+        "name": "map_distant_roost",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist.png"
+    },
+    {
+        "name": "map_distant_roost_2",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist.png"
+    },
+    {
+        "name": "map_titanic_plains",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist.png"
+    },
+    {
+        "name": "map_titanic_plains_2",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist.png"
+    },
+    {
+        "name": "map_verdant_falls",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist.png"
+    },
+    {
+        "name": "map_siphoned_forest",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist_sotv.png"
+    },
+    {
+        "name": "map_abandoned_aqueduct",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist.png"
+    },
+    {
+        "name": "map_wetland_aspect",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist.png"
+    },
+    {
+        "name": "map_aphelian_sanctuary",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist_sotv.png"
+    },
+    {
+        "name": "map_rallypoint_delta",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist.png"
+    },
+    {
+        "name": "map_scorched_acres",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist.png"
+    },
+    {
+        "name": "map_sulfur_pools",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist_sotv.png"
+    },
+    {
+        "name": "map_abyssal_depths",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist.png"
+    },
+    {
+        "name": "map_sirens_call",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist.png"
+    },
+    {
+        "name": "map_sundered_grove",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist.png"
+    },
+    {
+        "name": "map_sky_meadow",
+        "location_size": 16,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_checklist.png"
+    },
+    {
+        "name": "map_commencement",
+        "location_size": 14,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_access.png"
+    },
+    {
+        "name": "map_hidden_realm_bazaar_between_time",
+        "location_size": 14,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_access.png"
+    },
+    {
+        "name": "map_hidden_realm_a_moment_fractured",
+        "location_size": 14,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_access.png"
+    },
+    {
+        "name": "map_hidden_realm_a_moment_whole",
+        "location_size": 14,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_access.png"
+    },
+    {
+        "name": "map_hidden_realm_gilded_coast",
+        "location_size": 14,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_access.png"
+    },
+    {
+        "name": "map_hidden_realm_bulwark_s_ambry",
+        "location_size": 14,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_access.png"
+    },
+    {
+        "name": "map_void_fields",
+        "location_size": 14,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_access.png"
+    },
+    {
+        "name": "map_void_lotus",
+        "location_size": 14,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_access_sotv.png"
+    },
+    {
+        "name": "map_the_planetarium",
+        "location_size": 14,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_access_sotv.png"
+    },
+    {
+        "name": "map_prime_meridian",
+        "location_size": 14,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_access_sots.png"
+    },
+    {
+        "name": "map_solutional_haunt",
+        "location_size": 14,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_access_ac.png"
+    },
+    {
+        "name": "map_computational_exchange",
+        "location_size": 14,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_access_ac.png"
+    },
+    {
+        "name": "map_neural_sanctum",
+        "location_size": 14,
+        "location_border_thickness": 1,
+        "img": "images/maps/env_access_ac.png"
     }
 ]

@@ -50,6 +50,22 @@ ITEM_MAPPING = {
     [37503] = {"Stage 3","consumable"},
     [37504] = {"Stage 4","consumable"},
     [37505] = {"Progressive Stage","consumable"},
+    [37754] = {"Shattered Abodes","toggle"},
+    [37734] = {"Viscous Falls","toggle"},
+    [37755] = {"Disturbed Impact","toggle"},
+    [37736] = {"Reformed Altar","toggle"},
+    [37722] = {"Golden Dieback","toggle"},
+    [37721] = {"Treeborn Colony","toggle"},
+    [37723] = {"Helminth Hatchery","toggle"},
+    [37748] = {"Pretender's Precipice","toggle"},
+    [37778] = {"Iron Alluvium","toggle"},
+    [37729] = {"Iron Auroras","toggle"},
+    [37773] = {"Conduit Canyon","toggle"},
+    [37750] = {"Repurposed Crater","toggle"},
+    [37740] = {"Prime Meridian","toggle"},
+    [37757] = {"Solutional Haunt","toggle"},
+    [37772] = {"Computational Exchange","toggle"},
+    [37756] = {"Neural Sanctum","toggle"},
 
 }
 SETTINGS_MAPPING = {
