@@ -88,5 +88,41 @@
         "disabled_img": "images/closed.png",
         "disabled_img_mods": "none",
         "codes": "Verdant Falls"
+    },
+    {
+        "name": "Prime Meridian",
+        "type": "toggle",
+        "capturable": false,
+        "img": "images/open.png",
+        "disabled_img": "images/closed.png",
+        "disabled_img_mods": "none",
+        "codes": "Prime Meridian"
+    },
+    {
+        "name": "Solutional Haunt",
+        "type": "toggle",
+        "capturable": false,
+        "img": "images/open.png",
+        "disabled_img": "images/closed.png",
+        "disabled_img_mods": "none",
+        "codes": "Solutional Haunt"
+    },
+    {
+        "name": "Computational Exchange",
+        "type": "toggle",
+        "capturable": false,
+        "img": "images/open.png",
+        "disabled_img": "images/closed.png",
+        "disabled_img_mods": "none",
+        "codes": "Computational Exchange"
+    },
+    {
+        "name": "Neural Sanctum",
+        "type": "toggle",
+        "capturable": false,
+        "img": "images/open.png",
+        "disabled_img": "images/closed.png",
+        "disabled_img_mods": "none",
+        "codes": "Neural Sanctum"
     }
 ]

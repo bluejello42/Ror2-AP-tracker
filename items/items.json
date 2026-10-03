@@ -283,5 +283,71 @@
         "type": "consumable",
         "img": "images/Progressive Stage.png",
         "codes": "Progressive Stage"
+    },
+    {
+        "name": "Shattered Abodes",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "Shattered Abodes"
+    },
+    {
+        "name": "Viscous Falls",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "Viscous Falls"
+    },
+    {
+        "name": "Disturbed Impact",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "Disturbed Impact"
+    },
+    {
+        "name": "Reformed Altar",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "Reformed Altar"
+    },
+    {
+        "name": "Golden Dieback",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "Golden Dieback"
+    },
+    {
+        "name": "Treeborn Colony",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "Treeborn Colony"
+    },
+    {
+        "name": "Helminth Hatchery",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "Helminth Hatchery"
+    },
+    {
+        "name": "Pretender's Precipice",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "Pretender's Precipice"
+    },
+    {
+        "name": "Iron Alluvium",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "Iron Alluvium"
+    },
+    {
+        "name": "Conduit Canyon",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "Conduit Canyon"
+    },
+    {
+        "name": "Repurposed Crater",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "Repurposed Crater"
     }
 ]

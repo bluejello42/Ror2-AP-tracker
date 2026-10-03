@@ -5,7 +5,10 @@ function Zone1Access()
         Tracker:ProviderCountForCode("Titanic Plains") +
         Tracker:ProviderCountForCode("Titanic Plains (2)") +
         Tracker:ProviderCountForCode("Siphoned Forest") +
-        Tracker:ProviderCountForCode("Verdant Fall") 
+        Tracker:ProviderCountForCode("Verdant Fall") +
+        Tracker:ProviderCountForCode("Shattered Abodes") +
+        Tracker:ProviderCountForCode("Viscous Falls") +
+        Tracker:ProviderCountForCode("Disturbed Impact")
 
 	if (value > 0) and (Tracker:ProviderCountForCode("Stage 1") > 0) then
 		return 1
@@ -23,8 +26,10 @@ function Zone2Access()
 	local value = 
         Tracker:ProviderCountForCode("Abandoned Aqueduct") +
         Tracker:ProviderCountForCode("Wetland Aspect") +
-        Tracker:ProviderCountForCode("Aphelian Sanctuary")
-		
+        Tracker:ProviderCountForCode("Aphelian Sanctuary") +
+        Tracker:ProviderCountForCode("Reformed Altar") +
+        Tracker:ProviderCountForCode("Pretender's Precipice")
+
 	if (value > 0) and (Tracker:ProviderCountForCode("Stage 2") > 0) then
 		return 1
 	elseif (value > 0) and (Tracker:ProviderCountForCode("Progressive Stage") > 1) then
@@ -38,7 +43,11 @@ function Zone3Access()
     local value = 
         Tracker:ProviderCountForCode("Rallypoint Delta") +
         Tracker:ProviderCountForCode("Sulfur Pools") +
-        Tracker:ProviderCountForCode("Scorched Acres")
+        Tracker:ProviderCountForCode("Scorched Acres") +
+        Tracker:ProviderCountForCode("Treeborn Colony") +
+        Tracker:ProviderCountForCode("Golden Dieback") +
+        Tracker:ProviderCountForCode("Iron Alluvium") +
+        Tracker:ProviderCountForCode("Conduit Canyon")
 
 	if (value > 0) and (Tracker:ProviderCountForCode("Stage 3") > 0) then
 		return 1
@@ -53,7 +62,8 @@ function Zone4Access()
     local value = 
         Tracker:ProviderCountForCode("Abyssal Depths") +
         Tracker:ProviderCountForCode("Sirens Call") +
-        Tracker:ProviderCountForCode("Sundered Grove")
+        Tracker:ProviderCountForCode("Sundered Grove") +
+        Tracker:ProviderCountForCode("Repurposed Crater")
 
 	if (value > 0) and (Tracker:ProviderCountForCode("Stage 4") > 0) then
 		return 1
