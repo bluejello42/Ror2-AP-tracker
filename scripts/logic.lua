@@ -47,7 +47,6 @@ function Zone3Access()
         Tracker:ProviderCountForCode("Treeborn Colony") +
         Tracker:ProviderCountForCode("Golden Dieback") +
         Tracker:ProviderCountForCode("Iron Alluvium") +
-        Tracker:ProviderCountForCode("Iron Auroras") +
         Tracker:ProviderCountForCode("Conduit Canyon")
 
 	if (value > 0) and (Tracker:ProviderCountForCode("Stage 3") > 0) then

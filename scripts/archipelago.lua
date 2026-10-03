@@ -102,7 +102,6 @@ function onClear(slot_data)
             Tracker:FindObjectForCode('@Explore/Golden Dieback Chest/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Helminth Hatchery Chest/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Iron Alluvium Chest/1').AvailableChestCount = value
-            Tracker:FindObjectForCode('@Explore/Iron Auroras Chest/1').AvailableChestCount = value
             Tracker:FindObjectForCode("@Explore/Pretender's Precipice Chest/1").AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Reformed Altar Chest/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Repurposed Crater Chest/1').AvailableChestCount = value
@@ -131,7 +130,6 @@ function onClear(slot_data)
             Tracker:FindObjectForCode('@Explore/Golden Dieback Shrine/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Helminth Hatchery Shrine/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Iron Alluvium Shrine/1').AvailableChestCount = value
-            Tracker:FindObjectForCode('@Explore/Iron Auroras Shrine/1').AvailableChestCount = value
             Tracker:FindObjectForCode("@Explore/Pretender's Precipice Shrine/1").AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Reformed Altar Shrine/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Repurposed Crater Shrine/1').AvailableChestCount = value
@@ -159,7 +157,6 @@ function onClear(slot_data)
             Tracker:FindObjectForCode('@Explore/Golden Dieback Newt Altar/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Helminth Hatchery Newt Altar/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Iron Alluvium Newt Altar/1').AvailableChestCount = value
-            Tracker:FindObjectForCode('@Explore/Iron Auroras Newt Altar/1').AvailableChestCount = value
             Tracker:FindObjectForCode("@Explore/Pretender's Precipice Newt Altar/1").AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Reformed Altar Newt Altar/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Repurposed Crater Newt Altar/1').AvailableChestCount = value
@@ -188,7 +185,6 @@ function onClear(slot_data)
             Tracker:FindObjectForCode('@Explore/Golden Dieback Radio Scanner/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Helminth Hatchery Radio Scanner/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Iron Alluvium Radio Scanner/1').AvailableChestCount = value
-            Tracker:FindObjectForCode('@Explore/Iron Auroras Radio Scanner/1').AvailableChestCount = value
             Tracker:FindObjectForCode("@Explore/Pretender's Precipice Radio Scanner/1").AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Reformed Altar Radio Scanner/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Repurposed Crater Radio Scanner/1').AvailableChestCount = value
@@ -217,7 +213,6 @@ function onClear(slot_data)
             Tracker:FindObjectForCode('@Explore/Golden Dieback Scavenger/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Helminth Hatchery Scavenger/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Iron Alluvium Scavenger/1').AvailableChestCount = value
-            Tracker:FindObjectForCode('@Explore/Iron Auroras Scavenger/1').AvailableChestCount = value
             Tracker:FindObjectForCode("@Explore/Pretender's Precipice Scavenger/1").AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Reformed Altar Scavenger/1').AvailableChestCount = value
             Tracker:FindObjectForCode('@Explore/Repurposed Crater Scavenger/1').AvailableChestCount = value

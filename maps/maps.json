@@ -43,12 +43,6 @@
         "img": "images/maps/env_checklist_ac.png"
     },
     {
-        "name": "map_iron_auroras",
-        "location_size": 16,
-        "location_border_thickness": 1,
-        "img": "images/maps/env_checklist_ac.png"
-    },
-    {
         "name": "map_helminth_hatchery",
         "location_size": 16,
         "location_border_thickness": 1,

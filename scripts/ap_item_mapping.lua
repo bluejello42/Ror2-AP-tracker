@@ -59,7 +59,6 @@ ITEM_MAPPING = {
     [37723] = {"Helminth Hatchery","toggle"},
     [37748] = {"Pretender's Precipice","toggle"},
     [37778] = {"Iron Alluvium","toggle"},
-    [37729] = {"Iron Auroras","toggle"},
     [37773] = {"Conduit Canyon","toggle"},
     [37750] = {"Repurposed Crater","toggle"},
     [37740] = {"Prime Meridian","toggle"},

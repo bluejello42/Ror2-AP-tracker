@@ -342,18 +342,6 @@
                                                 }
                                             },
                                             {
-                                                "type": "group",
-                                                "header": "Iron Auroras",
-                                                "dock": "left",
-                                                "margin": "0,0,6,6",
-                                                "content": {
-                                                    "type": "map",
-                                                    "maps": [
-                                                        "map_iron_auroras"
-                                                    ]
-                                                }
-                                            },
-                                            {
                                                 "type": "container"
                                             }
                                         ]

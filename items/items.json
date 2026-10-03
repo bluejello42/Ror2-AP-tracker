@@ -339,12 +339,6 @@
         "codes": "Iron Alluvium"
     },
     {
-        "name": "Iron Auroras",
-        "type": "toggle",
-        "img": "images/items/toggle.png",
-        "codes": "Iron Auroras"
-    },
-    {
         "name": "Conduit Canyon",
         "type": "toggle",
         "img": "images/items/toggle.png",
